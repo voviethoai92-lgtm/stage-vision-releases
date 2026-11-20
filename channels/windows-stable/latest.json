@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "channel": "stable",
+  "notes": "STAGE VISION 3D 1.0.0 — bản phát hành đầu tiên cho khách: giao diện mới (nền sáng/tối, cột trái thu gọn kiểu Adobe, tab Ánh sáng chỉnh trực tiếp), phím tắt kiểu Blender tuỳ biến (F1), vùng nội dung LED kéo/co giãn theo nguồn NDI, Thiết kế nhanh, thư viện thiết bị GDTF, FREE + PRO (QR VietQR).",
+  "pub_date": "2026-11-20T17:59:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IFNUQUdFIFZJU0lPTiAzRCB1cGRhdGUgc2lnbmF0dXJlClJVUlJsYUZOWjk4UEc0cTUxZDBRa3pDZHdQOExHL01McFVBUlNXV1FOcHBiNFBBcWQ2Rkp5WkpHQ0ppUk1XMWFpc3VweEFjVmNtWmZydFdzbmdLTThMcTNpOFdlTmQrUTVBRT0KdHJ1c3RlZCBjb21tZW50OiB0aW1lc3RhbXA6MTc5NTE5NzU2OAlmaWxlOlN0YWdlVmlzaW9uM0RfV2luZG93c19TZXR1cC5leGUJdmVyc2lvbjoxLjAuMApUTlBPdjlvNUplZGIyUG1veTFicXJrM1dTb3ZVcHNxeVk3bVlFZ3FzZG11Vm5GMUFraXZCZzU2SW9aTkFDMDZhd21Fdk5Pc1RENDhaWDR2QU5TTmhDZz09Cg==",
+      "url": "https://github.com/voviethoai92-lgtm/stage-vision-releases/releases/download/windows-v1.0.0/StageVision3D_Windows_Setup.exe"
+    }
+  }
+}
